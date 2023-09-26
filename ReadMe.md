@@ -4,16 +4,16 @@
 
 ## Week 1: Arrays and Strings
 
-Reverse a String
-Check if a String is a Palindrome
-Find the First Non-Repeated Character
-Remove Duplicates from a Sorted Array
-Implement a Stack
-Implement a Queue
-Find the Maximum Subarray Sum
-Two Sum (Brute Force)
-Merge Two Sorted Arrays
-Implement a Singly Linked List
+1. Reverse a String
+2. Check if a String is a Palindrome
+3. Find the First Non-Repeated Character
+4. Remove Duplicates from a Sorted Array
+5. Implement a Stack
+6. Implement a Queue
+7. Find the Maximum Subarray Sum
+8. Two Sum (Brute Force)
+9. Merge Two Sorted Arrays
+10. Implement a Singly Linked List
 
 ## Week 2: Searching and Sorting
 
