@@ -4,7 +4,7 @@
 
 ## Week 1: Arrays and Strings
 
-1. Reverse a String
+1. Reverse a array
 2. Check if a String is a Palindrome
 3. Find the First Non-Repeated Character
 4. Remove Duplicates from a Sorted Array
