@@ -8,7 +8,7 @@ for (let i = 0; i < Math.floor(length / 2); i++) {
     oldArr[length - 1 - i] = temp;
 }
 
-console.log(oldArr);
+console.log(`Reverse Array : ${oldArr}`);
 
 
 // ascending sort
@@ -21,7 +21,7 @@ for (let i = 0; i <= length; i++) {
         }
     }
 }
-console.log(`Ascending Sort Array :${oldArr}`)
+console.log(`Ascending Sort :${oldArr}`)
 
 //descending sort
 for (let i = 0; i <= length; i++) {
@@ -33,4 +33,4 @@ for (let i = 0; i <= length; i++) {
         }
     }
 }
-console.log(`Descending Sort Array :${oldArr}`)
+console.log(`Descending Sort :${oldArr}`)
