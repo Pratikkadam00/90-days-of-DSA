@@ -52,3 +52,4 @@ stack.push(3);
 
 console.log(stack.peek()); // Output: 3
 console.log(stack.pop());  // Output: 3
+console.log(stack.size()); // Output: 2
