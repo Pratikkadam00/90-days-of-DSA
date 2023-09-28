@@ -51,4 +51,4 @@ queue.enqueue(2);
 queue.enqueue(3);
 
 console.log(queue.front()); // Output: 1
-
+console.log(queue.dequeue());  // Output: 1
