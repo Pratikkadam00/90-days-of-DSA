@@ -77,3 +77,18 @@ myList.deleteNode(1);
 
 console.log("List after deleting node with key 1:");
 myList.printList();
+
+
+// Original List:
+
+// 0 ->: After prepending 0 to the linked list.
+// 1 ->: After appending 1 to the linked list.
+// 2 ->: After appending 2 to the linked list.
+// 3 ->: After appending 3 to the linked list.
+//     null: Represents the end of the linked list.
+// List after deleting node with key 1:
+
+// 0 ->: Node 0 remains unchanged.
+// 2 ->: Node with key 1 is deleted, so 2 comes after 0.
+// 3 ->: 3 remains unchanged.
+//     null: Represents the end of the updated linked list after deletion.
