@@ -20,7 +20,7 @@ function binarySearch(arr, target) {
         }
     }
 
-    // If the target is not found, return -1
+    // target not found return -1
     return -1;
 }
 
