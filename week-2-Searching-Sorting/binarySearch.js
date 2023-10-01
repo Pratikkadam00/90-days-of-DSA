@@ -34,3 +34,11 @@ if (result !== -1) {
 } else {
     console.log(`Element not found in the array`);
 }
+
+// Initialize pointers: Set two pointers, left and right, to the start and end of the sorted array, respectively.
+// Midpoint calculation: Calculate the middle index of the current array segment: mid = Math.floor((left + right) / 2).
+// Comparison: Compare the middle element with the target value.
+// If the middle element is equal to the target, the search is successful, and the index is returned.
+// If the middle element is less than the target, update the left pointer to mid + 1.
+// If the middle element is greater than the target, update the right pointer to mid - 1.
+// Repeat: Continue this process until the left pointer is greater than the right pointer.If the target element is not found, return -1 to indicate that the element is not in the array.
