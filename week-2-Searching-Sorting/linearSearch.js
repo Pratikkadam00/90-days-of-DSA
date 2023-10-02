@@ -17,3 +17,9 @@ if (result !== -1) {
 } else {
     console.log(`Element not found in the array.`);
 }
+
+// Start from the first element of the array.
+// Compare the target element with the current element.
+// If they are equal, the search is successful.
+// If they are not equal, move to the next element in the array and repeat step 2.
+// Continue this process until a match is found or the end of the array is reached.
