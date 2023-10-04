@@ -25,3 +25,13 @@ function selectionSort(arr) {
 var unsortedArray = [64, 34, 25, 12, 22, 11, 90];
 var sortedArray = selectionSort(unsortedArray);
 console.log("Sorted array:", sortedArray);
+
+
+// Find the minimum element: Iterate through the array and find the smallest element.
+// Swap with the first element: Swap the found minimum element with the first element of the unsorted part.
+// Move the boundary: Move the boundary between the sorted and unsorted parts one element to the right.
+
+// In this example, the selectionSort function takes an array as input and returns the sorted array using
+// the selection sort algorithm.The outer loop runs through the array, and the inner loop finds the minimum
+// element in the unsorted part.After each iteration of the outer loop, the smallest element is placed in its
+//  correct position.The process continues until the entire array is sorted.
