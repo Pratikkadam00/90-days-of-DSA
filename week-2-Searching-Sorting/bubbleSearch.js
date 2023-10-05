@@ -24,3 +24,7 @@ function bubbleSort(arr) {
 let unsortedArray = [64, 34, 25, 12, 22, 11, 90];
 let sortedArray = bubbleSort(unsortedArray);
 console.log("Sorted array: " + sortedArray);
+// In this implementation, the bubbleSort function takes an array of numbers as input and sorts it
+//     in ascending order using the Bubble Sort algorithm.The swapped variable is used to optimize the
+// algorithm.If during a pass, no elements are swapped, the array is already sorted, and the algorithm can
+// terminate early.
